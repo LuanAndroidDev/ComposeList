@@ -77,5 +77,6 @@ fun ShowList(beers: List<Beer>, modifier: Modifier = Modifier) {
 ```
 
 Tem outras mudancas pequenas que voce pode ver no repositorio do GitHub (permissao para acessar a internet, coil/image dependencia, Scaffold na MainActivity).
+https://github.com/LuanAndroidDev/ComposeList
 
 
