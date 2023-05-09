@@ -1,5 +1,5 @@
 # ComposeList
-Projeto simples pra mostrar como a LazyList/LazyColumn funciona em Compose (nao existe mais RecyclerView)
+Projeto simples pra mostrar como a LazyList/LazyColumn funciona em Compose (nao existe mais RecyclerView).
 
 ## Passo 1: Criar os dados fakes pra mostrar na list
 
